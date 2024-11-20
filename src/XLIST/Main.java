@@ -1,9 +1,3 @@
-/**
- *
- *  @author Tomaszewski Jakub S31585
- *
- */
-
 package zad1;
 
 
